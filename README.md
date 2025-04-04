@@ -201,9 +201,7 @@ me.say_hi()
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=10B981" alt="Profile Views"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=L-eishaGithub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer" width="100%"/>
