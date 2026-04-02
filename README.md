@@ -56,12 +56,12 @@ me.say_hi()
 <img align="right" alt="Data Science" width="350" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 
 💫 About Me
-🔭 Current Focus: Exploring AI and preparing for AI internship opportunities
-🤖 Background: Strong foundation in Data Science and Python
-📊 Skilled In: Data analysis, visualization, and extracting insights from data
-🌱 Learning: Machine Learning, AI concepts, and real-world applications
-🤔 Exploring: How AI models work and how to build intelligent systems
-⚡ Fun fact: I can find patterns in almost anything… now even in AI models 😄
+-🔭 Current Focus: Exploring AI and preparing for AI internship opportunities
+-🤖 Background: Strong foundation in Data Science and Python
+-📊 Skilled In: Data analysis, visualization, and extracting insights from data
+-🌱 Learning: Machine Learning, AI concepts, and real-world applications
+-🤔 Exploring: How AI models work and how to build intelligent systems
+-⚡ Fun fact: I can find patterns in almost anything… now even in AI models 😄
 
 <br>
 <br>
