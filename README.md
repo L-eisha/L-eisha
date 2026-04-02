@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 class DataScientist:
     def __init__(self):
         self.name = "Your Name"
-        self.role = "Data Scientist in Training"
+        self.role = "Data Scientist and AI Engineer in Training"
         self.language_spoken = ["en_US", "your_language"]
         self.current_focus = "Building Python data analysis skills"
     
