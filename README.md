@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Your Name"
-        self.role = "Data Scientist and AI Engineer in Training"
-        self.language_spoken = ["en_US", "your_language"]
-        self.current_focus = "Building Python data analysis skills"
-    
+        self.name = "Leisha Choudhary"
+        self.role = "AI/ML Enthusiast and Data Science Learner"
+        self.language_spoken = ["en_US", "Hindi"]
+        self.current_focus = "Building AI/ML projects and strengthening data science skills"
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's discover insights in data together!")
+        print(f"Hi, I'm {self.name}!")
+        print("Passionate about AI, ML, and building impactful tech solutions.")
 
 me = DataScientist()
 me.say_hi()
