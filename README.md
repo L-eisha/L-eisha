@@ -57,8 +57,8 @@ me.say_hi()
 <img align="right" alt="Data Science" width="350" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 ## 💫 About Me  
 
-- 🔭 Currently focused on AI, Machine Learning, and building intelligent solutions  
-- 🤖 Completed foundational learning in Data Science and Python development  
+- 🔭 Currently focused on AI and Machine Learning 
+- 🤖 Completed foundational learning in Data Science and Python 
 - 📊 Skilled in data analysis, visualization, and extracting actionable insights  
 - 🌱 Exploring Deep Learning, AI applications, and real-world problem solving  
 - 🚀 Interested in AI innovation, automation, and impactful tech projects  
