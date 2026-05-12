@@ -62,7 +62,7 @@ me.say_hi()
 - 📊 Skilled in data analysis, visualization, and extracting actionable insights  
 - 🌱 Exploring Deep Learning, AI applications, and real-world problem solving  
 - 🚀 Interested in AI innovation, automation, and impactful tech projects  
-- ⚡ Fun fact: I love analyzing patterns — whether in data, systems, or AI models 😄
+- ⚡ Fun fact: I love analyzing patterns - whether in data, systems, or AI models 😄
 <br>
 <br>
 
