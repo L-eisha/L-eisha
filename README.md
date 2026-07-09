@@ -1,4 +1,3 @@
-
 <!--
 **L-eisha/L-eisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,30 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Data%20Science%20Explorer&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=AI%2FML%20%26%20Data%20Science%20Engineer&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 ## `Hello World!` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;Python+Enthusiast;Analytics+Adventurer;Visualization+Craftsman;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Research+Intern;Data+Science+Enthusiast;Frontend+Developer;Python+%2B+Streamlit+Builder;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <br>
 
 ```python
-class DataScientist:
+class AIEngineer:
     def __init__(self):
         self.name = "Leisha Choudhary"
-        self.role = "AI/ML Enthusiast and Data Science Learner"
-        self.language_spoken = ["en_US", "Hindi"]
-        self.current_focus = "Building AI/ML projects and strengthening data science skills"
+        self.roles = ["AI/ML Engineer", "AI Research Intern", "Data Analyst", "Frontend Developer"]
+        self.languages_spoken = ["en_US", "Hindi"]
+        self.tech_stack = {
+            "languages": ["Python", "C", "C++", "Java"],
+            "ai_ml": ["Machine Learning", "NLP", "Data Preprocessing", "Statistical Analysis"],
+            "tools": ["Streamlit", "REST APIs", "SQL", "Kaggle"],
+            "data": ["Data Analysis", "Data Visualization", "Microsoft Excel"],
+            "frontend": ["HTML", "CSS", "JavaScript"]
+        }
+        self.current_focus = "AI research internships, building AI-powered apps, and building/deploying frontends"
 
     def say_hi(self):
         print(f"Hi, I'm {self.name}!")
-        print("Passionate about AI, ML, and building impactful tech solutions.")
+        print("AI/ML engineer and data analyst who also builds and deploys frontend web apps.")
 
-me = DataScientist()
+me = AIEngineer()
 me.say_hi()
 ```
 
@@ -55,13 +61,15 @@ me.say_hi()
 <br>
 
 <img align="right" alt="Data Science" width="350" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
+
 ## 💫 About Me  
 
-- 🔭 Currently focused on AI and Machine Learning 
-- 🤖 Completed foundational learning in Data Science and Python 
-- 📊 Skilled in data analysis, visualization, and extracting actionable insights  
-- 🌱 Exploring Deep Learning, AI applications, and real-world problem solving  
-- 🚀 Interested in AI innovation, automation, and impactful tech projects  
+- 🔭 Currently working as an **AI Researcher Intern** — Generative AI & Data Science research, plus frontend work
+- 🤖 Also bring hands-on experience as an **AI Intern**, shipping deployed AI-powered apps
+- 💻 Comfortable from ML models and NLP pipelines to building and deploying frontends
+- 📊 Skilled in data analysis, visualization, and extracting actionable insights
+- 🌱 Exploring Deep Learning, AI applications, and real-world problem solving
+- 🚀 Interested in AI innovation, automation, and impactful tech products
 - ⚡ Fun fact: I love analyzing patterns - whether in data, systems, or AI models 😄
 <br>
 <br>
@@ -69,11 +77,24 @@ me.say_hi()
 ## 🛠️ My Tech Stack
 
 <div align="center">
-  <h3>Languages & Libraries</h3>
+  <h3>Languages</h3>
   <p>
     <a href="https://www.python.org" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    </a>
+    <a href="https://www.java.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </a>
+  </p>
+
+  <h3>AI / ML & Data Science</h3>
+  <p>
     <a href="https://pandas.pydata.org/" target="_blank">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     </a>
@@ -83,6 +104,25 @@ me.say_hi()
     <a href="https://matplotlib.org/" target="_blank">
       <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
     </a>
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+  </p>
+
+  <h3>Frontend</h3>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </a>
+    <a href="https://streamlit.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    </a>
+    <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   </p>
   
   <h3>Tools & Environments</h3>
@@ -115,6 +155,9 @@ me.say_hi()
     <a href="https://powerbi.microsoft.com/" target="_blank">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
     </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+    </a>
   </p>
 </div>
 
@@ -141,19 +184,19 @@ me.say_hi()
       <td>
         <h3 align="center">Currently Learning</h3>
         <ul>
-          <li>Python data structures and algorithms</li>
-          <li>Data cleaning and preprocessing</li>
-          <li>Exploratory data analysis</li>
-          <li>Statistical modeling fundamentals</li>
-          <li>Data visualization techniques</li>
+          <li>Advanced Generative AI techniques</li>
+          <li>Deep learning fundamentals</li>
+          <li>Modern frontend frameworks</li>
+          <li>Statistical modeling</li>
+          <li>Cloud deployment for AI apps</li>
         </ul>
       </td>
       <td>
         <h3 align="center">Future Goals</h3>
         <ul>
-          <li>Machine learning fundamentals</li>
+          <li>Full-stack AI product development</li>
           <li>Advanced data visualization</li>
-          <li>SQL and database management</li>
+          <li>Scalable database management</li>
           <li>Cloud-based data solutions</li>
           <li>Big data processing tools</li>
         </ul>
@@ -189,7 +232,7 @@ me.say_hi()
 ## 🔍 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to collaborating on projects and innovative ideas. Let's connect and learn together!</p>
+  <p>I'm always open to collaborating on AI, data, and frontend projects. Let's connect and build something together!</p>
   
   <a href="https://github.com/L-eisha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -206,3 +249,4 @@ me.say_hi()
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer" width="100%"/>
 </div>
+    
