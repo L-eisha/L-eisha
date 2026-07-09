@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=AI%2FML%20%26%20Data%20Science%20Engineer&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=AI%2FML%20and%20Data%20Science%20Engineer&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 ## `Hello World!` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -171,7 +171,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=L-eisha&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=L-eisha&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -249,4 +249,8 @@ me.say_hi()
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer" width="100%"/>
 </div>
+
     
+
+
+   
