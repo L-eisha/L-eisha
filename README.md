@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## `Hello World!` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Research+Intern;Data+Science+Enthusiast;Frontend+Developer;Python+%2B+Streamlit+Builder;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Research+Intern;Data+Science+Enthusiast;Head+of+CodeGeeks+Society;Python+%2B+Streamlit+Builder;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <br>
@@ -69,6 +69,8 @@ me.say_hi()
 - 💻 Comfortable from ML models and NLP pipelines to building and deploying frontends
 - 📊 Skilled in data analysis, visualization, and extracting actionable insights
 - 🌱 Exploring Deep Learning, AI applications, and real-world problem solving
+- 🎓 B.Tech CS (Data Science) at GTB4CEC | BS in Data Science at **IIT Madras**
+- 👑 **Head of CodeGeeks Society** at GTB4CEC — organizing coding events, hackathons & mentoring students
 - 🚀 Interested in AI innovation, automation, and impactful tech products
 - ⚡ Fun fact: I love analyzing patterns - whether in data, systems, or AI models 😄
 <br>
@@ -106,6 +108,9 @@ me.say_hi()
     </a>
     <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
     <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+    <a href="https://plotly.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+    </a>
   </p>
 
   <h3>Frontend</h3>
@@ -123,6 +128,9 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     </a>
     <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    </a>
   </p>
   
   <h3>Tools & Environments</h3>
@@ -159,6 +167,66 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
     </a>
   </p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Personality Prediction through CV</h3>
+        <p align="center">
+          <a href="https://github.com/L-eisha/personality_predictor" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">NLP-powered Big Five (OCEAN) personality analysis from CVs. Features weighted keyword matching, sigmoid scoring, interactive Plotly charts, confidence analysis, and career recommendations.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Be Bright 1 Website</h3>
+        <p align="center">
+          <a href="https://www.bebright1.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Site-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">Company website for Be Bright 1 with responsive design, clean UI, SEO optimization, geo-targeting for 7 countries, and full deployment on custom domain.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Gender & Age Prediction Model</h3>
+        <p align="center">Machine learning model to predict gender and age from input features, deployed as an interactive Streamlit web application.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Hindi Sahitya Library</h3>
+        <p align="center">Digital library system to organize and manage Hindi literature collections. Built during a hackathon to improve accessibility to Hindi literary works.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=flat-square&logo=dev.to&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
