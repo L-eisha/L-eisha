@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## `Hello World!` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Research+Intern;Data+Science+Enthusiast;Head+of+CodeGeeks+Society;Python+%2B+Streamlit+Builder;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;AI+Research+Intern;Data+Science+Enthusiast;Head+of+CodeGeeks+Society;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@ class AIEngineer:
 
     def say_hi(self):
         print(f"Hi, I'm {self.name}!")
-        print("AI/ML engineer and data analyst who also builds and deploys frontend web apps.")
+        print("AI/ML engineer and data scientist building real-world AI applications.")
 
 me = AIEngineer()
 me.say_hi()
@@ -66,7 +66,7 @@ me.say_hi()
 
 - 🔭 Currently working as an **AI Researcher Intern** — Generative AI & Data Science research, plus frontend work
 - 🤖 Also bring hands-on experience as an **AI Intern**, shipping deployed AI-powered apps
-- 💻 Comfortable from ML models and NLP pipelines to building and deploying frontends
+- 💻 Building and deploying real-world AI applications using Python, APIs, and Streamlit
 - 📊 Skilled in data analysis, visualization, and extracting actionable insights
 - 🌱 Exploring Deep Learning, AI applications, and real-world problem solving
 - 🎓 B.Tech CS (Data Science) at GTB4CEC | BS in Data Science at **IIT Madras**
