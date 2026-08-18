@@ -47,7 +47,7 @@ me.say_hi()
 
 <br>
 
-<img align="right" alt="Data Science" width="350" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
+<img align="right" alt="Data Science" width="350" src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif">
 
 ## About Me
 
