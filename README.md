@@ -178,8 +178,8 @@ me.say_hi()
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L-eisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-eisha&hide=html&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=L-eisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L-eisha&hide=html&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </div>
 
 <div align="center">
@@ -189,7 +189,7 @@ me.say_hi()
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L-eisha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=L-eisha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ## Contribution Graph
