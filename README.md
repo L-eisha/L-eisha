@@ -178,36 +178,18 @@ me.say_hi()
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=L-eisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L-eisha&hide=html&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=L-eisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=L-eisha&hide=html&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=L-eisha&theme=tokyonight&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=L-eisha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L-eisha&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>Watch the snake eat my contributions!</h3>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-eisha/L-eisha/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-eisha/L-eisha/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/L-eisha/L-eisha/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L-eisha&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
