@@ -162,11 +162,17 @@ me.say_hi()
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Hindi Sahitya Library</h3>
-        <p align="center">Digital library system to organize and manage Hindi literature collections. Built during a hackathon to improve accessibility to Hindi literary works.</p>
+        <h3 align="center">AI Chatbot</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=flat-square&logo=dev.to&logoColor=white"/>
+          <a href="https://github.com/L-eisha/ai-chatbot" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">AI-powered chatbot using NVIDIA NIM with multi-model support (Qwen, LLaMA, Mistral, Gemma), streaming responses, custom system prompts, and chat export.</p>
+        <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
         </p>
       </td>
     </tr>
